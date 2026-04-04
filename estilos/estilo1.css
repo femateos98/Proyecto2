@@ -1,0 +1,73 @@
+body{
+    background-color: gray;
+}
+
+h1 {
+     font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: yellow
+  }
+
+ h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: orange
+}
+
+ h3, h4 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: x-large;
+        color: orange
+ }
+
+#cancion {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+}
+
+
+.estiloespecial {
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    font-size: 32px;
+}
+
+header {
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 28px;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+footer {
+    background-color: yellow;
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+#angus {
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+
+.texto {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    color: yellow;
+    font-size: 25px;
+    margin: 35px;
+    border: 30px solid yellow;
+    width: 500px;
+    padding: 20px;
+}
+
